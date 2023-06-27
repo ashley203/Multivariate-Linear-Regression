@@ -3,7 +3,7 @@ Multivariate Linear Regression Models on USA Housing
 Python libraries used include Pandas, Numpy, Seaborn, and Matplotlib
 
 
-In this lab we will work through the process of:
+In this lab we work through the process of:
 1. implementing a linear regression model
 2. defining, implementing and testing multiple loss functions 
 3. minimizing loss functions using gradient descent
